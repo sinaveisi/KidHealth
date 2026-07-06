@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Replace with your actual app icon path once uploaded -->
-  <img src="screenshots/7.jpg" width="120" alt="Kids Health logo"/>
+   <img src="screenshots/7.jpg" width="200" alt=""/>
 </p>
 
 <p align="center">
